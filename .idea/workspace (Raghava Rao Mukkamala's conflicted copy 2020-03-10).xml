@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9afbf47e-425e-4d5a-b70e-2dfec4f1d61f" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Text_classifiers_Project$UNCHR_Classification.coverage" NAME="UNCHR-Classification Coverage Results" MODIFIED="1573935918179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SingleLabel_Classification" />
+    <SUITE FILE_PATH="coverage/Jabra_classifier_Project$MultiLabelTrainingSetGenerator.coverage" NAME="MultiLabelTrainingSetGenerator Coverage Results" MODIFIED="1503602048479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multilabel_classification" />
+    <SUITE FILE_PATH="coverage/Jabra_classifier_Project$MultiLabelCategoryClassifierWithOriginalLabels.coverage" NAME="MultiLabelCategoryClassifierWithOriginalLabels Coverage Results" MODIFIED="1506462669928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multilabel_classification" />
+    <SUITE FILE_PATH="coverage/Text_classifiers_Project$breast_cancer_text_classifier.coverage" NAME="breast_cancer_text_classifier Coverage Results" MODIFIED="1573800082337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SingleLabel_Classification" />
+    <SUITE FILE_PATH="coverage/Text_classifiers_Project$cafes_tripadvisor_classification.coverage" NAME="cafes_tripadvisor_classification Coverage Results" MODIFIED="1525452883458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SingleLabel_Classification" />
+    <SUITE FILE_PATH="coverage/Jabra_classifier_Project$document_classification_20newsgroups.coverage" NAME="document_classification_20newsgroups Coverage Results" MODIFIED="1500839248777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/old-code" />
+    <SUITE FILE_PATH="coverage/Jabra_classifier_Project$MultiLabelCategoryClassifier.coverage" NAME="MultiLabelCategoryClassifier Coverage Results" MODIFIED="1506378671013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multilabel_classification" />
+    <SUITE FILE_PATH="coverage/Jabra_classifier_Project$NumpyTests.coverage" NAME="NumpyTests Coverage Results" MODIFIED="1500870506262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/old-code" />
+    <SUITE FILE_PATH="coverage/Jabra_classifier_Project$MultiLabelTrainingSetWithOriginalLabels.coverage" NAME="MultiLabelTrainingSetWithOriginalLabels Coverage Results" MODIFIED="1505250119777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multilabel_classification" />
+    <SUITE FILE_PATH="coverage/Text_classifiers_Project$Patien_journey_classifier.coverage" NAME="Patien_journey_classifier Coverage Results" MODIFIED="1520005626371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SingleLabel_Classification" />
+    <SUITE FILE_PATH="coverage/Jabra_classifier_Project$Paragraphsplitter.coverage" NAME="Paragraphsplitter Coverage Results" MODIFIED="1502869759983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/old-code" />
+    <SUITE FILE_PATH="coverage/Jabra_classifier_Project$ClassifyJabraDataMultiLabel.coverage" NAME="ClassifyJabraDataMultiLabel Coverage Results" MODIFIED="1506467231658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jabra_newdata_classification" />
+    <SUITE FILE_PATH="coverage/Jabra_classifier_Project$NaiveBayesClassifier.coverage" NAME="NaiveBayesClassifier Coverage Results" MODIFIED="1500699544650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Jabra_classifier_Project$review_classifier_sample.coverage" NAME="review-classifier-sample Coverage Results" MODIFIED="1500640349008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../multi-classifier-text-classification" />
+    <SUITE FILE_PATH="coverage/Text_classifiers_Project$ClassifierBase.coverage" NAME="ClassifierBase Coverage Results" MODIFIED="1525255235186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Classifiers" />
+    <SUITE FILE_PATH="coverage/Jabra_classifier_Project$ReviewClassificationMulti.coverage" NAME="ReviewClassificationMulti Coverage Results" MODIFIED="1503600721103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Jabra_classifier_Project$PolarityClassifier.coverage" NAME="PolarityClassifier Coverage Results" MODIFIED="1503617293556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SingleLabel_Classification" />
+    <SUITE FILE_PATH="coverage/Text_classifiers_Project$Text_classifiers_Project.coverage" NAME="Text-classifiers-Project Coverage Results" MODIFIED="1540647946877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Jabra_classifier_Project$Patien_journey_classifier.coverage" NAME="Patien_journey_classifier Coverage Results" MODIFIED="1505425337809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SingleLabel_Classification" />
+    <SUITE FILE_PATH="coverage/Jabra_classifier_Project$multilabelcls.coverage" NAME="multilabelcls Coverage Results" MODIFIED="1502870399228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spikes" />
+    <SUITE FILE_PATH="coverage/Jabra_classifier_Project$MultiLabelReviewClassifier.coverage" NAME="MultiLabelReviewClassifier Coverage Results" MODIFIED="1503580663060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multilabel_classification" />
+    <SUITE FILE_PATH="coverage/Jabra_classifier_Project$Sample.coverage" NAME="Sample Coverage Results" MODIFIED="1500922738285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Jabra_classifier_Project$review_classifier_sample__1_.coverage" NAME="review-classifier-sample (1) Coverage Results" MODIFIED="1500823326202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/old-code" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Jabra-classifier-Project" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="b45b2f81-8525-4df9-aec4-c2be310a906a" />
+  <component name="ProjectId" id="1Tk0SiYXlVkjv6N2jg0DbTEbSHQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/SingleLabel_Classification" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/spikes" />
+      <recent name="$PROJECT_DIR$/old-code" />
+      <recent name="$PROJECT_DIR$/Classifiers" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/old-code" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Tweetpy">
+    <configuration default="true" type="DjangoTestsConfigurationType">
+      <module name="Jabra-classifier-Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Text-classifiers-Project" type="JupiterNotebook" factoryName="Jupyter Notebook">
+      <module name="Text-classifiers-Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="additionalOptions" value="" />
+      <option name="ipnbHost" value="127.0.0.1" />
+      <option name="ipnbPort" value="8888" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <module name="Jabra-classifier-Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <module name="Jabra-classifier-Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CVSExplorer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Text-classifiers-Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/royal-theatre-text-analyis" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/royal-theatre-text-analyis/CVSExplorer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DataCleaning" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Text-classifiers-Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/royal-theatre-text-analyis" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/royal-theatre-text-analyis/DataCleaning.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DataTransformation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Text-classifiers-Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/royal-theatre-text-analyis" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/royal-theatre-text-analyis/DataTransformation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Tweetpy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Text-classifiers-Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/royal-theatre-text-analyis" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/royal-theatre-text-analyis/Tweetpy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Jabra-classifier-Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="general-classification-latest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Text-classifiers-Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SingleLabel_Classification" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SingleLabel_Classification/general-classification-latest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="review-classifier-sample" type="PythonConfigurationType" factoryName="Python">
+      <module name="Jabra-classifier-Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../multi-classifier-text-classification" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../multi-classifier-text-classification/review-classifier-sample.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="Jabra-classifier-Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="Jabra-classifier-Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="Jabra-classifier-Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.review-classifier-sample" />
+      <item itemvalue="Python.DataTransformation" />
+      <item itemvalue="Python.general-classification-latest" />
+      <item itemvalue="Python.DataCleaning" />
+      <item itemvalue="Python.CVSExplorer" />
+      <item itemvalue="Python.Tweetpy" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Tweetpy" />
+        <item itemvalue="Python.general-classification-latest" />
+        <item itemvalue="Python.CVSExplorer" />
+        <item itemvalue="Python.DataCleaning" />
+        <item itemvalue="Python.DataTransformation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9afbf47e-425e-4d5a-b70e-2dfec4f1d61f" name="Default" comment="" />
+      <created>1500624239763</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1500624239763</updated>
+      <workItem from="1551826133252" duration="1616000" />
+      <workItem from="1551901364141" duration="698000" />
+      <workItem from="1551983364614" duration="247000" />
+      <workItem from="1552682167094" duration="1610000" />
+      <workItem from="1554395952244" duration="496000" />
+      <workItem from="1573764480463" duration="454000" />
+      <workItem from="1573765778878" duration="1149000" />
+      <workItem from="1573799927585" duration="14391000" />
+      <workItem from="1573988792975" duration="1197000" />
+      <workItem from="1576258556901" duration="50000" />
+      <workItem from="1576698189745" duration="1831000" />
+      <workItem from="1576774549230" duration="314000" />
+      <workItem from="1576774982613" duration="10372000" />
+      <workItem from="1577533995245" duration="15120000" />
+      <workItem from="1580511388393" duration="3566000" />
+      <workItem from="1580587315437" duration="2477000" />
+      <workItem from="1580639270457" duration="68000" />
+      <workItem from="1581285257687" duration="58000" />
+      <workItem from="1581285337764" duration="5618000" />
+      <workItem from="1581436356540" duration="1377000" />
+      <workItem from="1581444776436" duration="5153000" />
+      <workItem from="1581455280072" duration="16893000" />
+      <workItem from="1581624884795" duration="312000" />
+      <workItem from="1581625206660" duration="65000" />
+      <workItem from="1581625279227" duration="103000" />
+      <workItem from="1581625740777" duration="345000" />
+      <workItem from="1581626485302" duration="263000" />
+      <workItem from="1581626752512" duration="398000" />
+      <workItem from="1581628300232" duration="452000" />
+      <workItem from="1582288289613" duration="823000" />
+      <workItem from="1582655697897" duration="351000" />
+      <workItem from="1583017015287" duration="2084000" />
+      <workItem from="1583144826094" duration="2562000" />
+      <workItem from="1583345801976" duration="405000" />
+      <workItem from="1583691376975" duration="4913000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1960" y="496" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581285533647">
+      <screen x="0" y="23" width="3440" height="1337" />
+    </state>
+    <state x="1960" y="496" key="#com.intellij.fileTypes.FileTypeChooser/0.23.3440.1337@0.23.3440.1337" timestamp="1581285533647" />
+    <state x="1975" y="541" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog" timestamp="1581501874813">
+      <screen x="0" y="23" width="3440" height="1337" />
+    </state>
+    <state x="1975" y="541" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog/0.23.3440.1337@0.23.3440.1337" timestamp="1581501874813" />
+    <state x="627" y="266" key="FileChooserDialogImpl" timestamp="1580511503894">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state x="627" y="266" key="FileChooserDialogImpl/0.23.1680.960@0.23.1680.960" timestamp="1580511503894" />
+    <state width="861" height="329" key="GridCell.Tab.0.bottom" timestamp="1583312340808">
+      <screen x="0" y="23" width="3440" height="1337" />
+    </state>
+    <state width="673" height="199" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1581627151423" />
+    <state width="1358" height="244" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1580512038298" />
+    <state width="1638" height="244" key="GridCell.Tab.0.bottom/0.23.1680.961@0.23.1680.961" timestamp="1580586971820" />
+    <state width="1606" height="186" key="GridCell.Tab.0.bottom/0.23.1680.975@0.23.1680.975" timestamp="1581628752632" />
+    <state width="1485" height="186" key="GridCell.Tab.0.bottom/0.23.2560.977@0.23.2560.977" timestamp="1580666949874" />
+    <state width="1485" height="186" key="GridCell.Tab.0.bottom/0.23.2560.982@0.23.2560.982" timestamp="1580684275704" />
+    <state width="861" height="329" key="GridCell.Tab.0.bottom/0.23.3440.1337@0.23.3440.1337" timestamp="1583312340808" />
+    <state width="861" height="329" key="GridCell.Tab.0.center" timestamp="1583312340808">
+      <screen x="0" y="23" width="3440" height="1337" />
+    </state>
+    <state width="673" height="199" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1581627151423" />
+    <state width="1358" height="244" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1580512038297" />
+    <state width="1638" height="244" key="GridCell.Tab.0.center/0.23.1680.961@0.23.1680.961" timestamp="1580586971818" />
+    <state width="1606" height="186" key="GridCell.Tab.0.center/0.23.1680.975@0.23.1680.975" timestamp="1581628752632" />
+    <state width="1485" height="186" key="GridCell.Tab.0.center/0.23.2560.977@0.23.2560.977" timestamp="1580666949873" />
+    <state width="1485" height="186" key="GridCell.Tab.0.center/0.23.2560.982@0.23.2560.982" timestamp="1580684275704" />
+    <state width="861" height="329" key="GridCell.Tab.0.center/0.23.3440.1337@0.23.3440.1337" timestamp="1583312340808" />
+    <state width="861" height="329" key="GridCell.Tab.0.left" timestamp="1583312340808">
+      <screen x="0" y="23" width="3440" height="1337" />
+    </state>
+    <state width="673" height="199" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1581627151423" />
+    <state width="1358" height="244" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1580512038296" />
+    <state width="1638" height="244" key="GridCell.Tab.0.left/0.23.1680.961@0.23.1680.961" timestamp="1580586971817" />
+    <state width="1606" height="186" key="GridCell.Tab.0.left/0.23.1680.975@0.23.1680.975" timestamp="1581628752631" />
+    <state width="1485" height="186" key="GridCell.Tab.0.left/0.23.2560.977@0.23.2560.977" timestamp="1580666949872" />
+    <state width="1485" height="186" key="GridCell.Tab.0.left/0.23.2560.982@0.23.2560.982" timestamp="1580684275703" />
+    <state width="861" height="329" key="GridCell.Tab.0.left/0.23.3440.1337@0.23.3440.1337" timestamp="1583312340808" />
+    <state width="861" height="329" key="GridCell.Tab.0.right" timestamp="1583312340808">
+      <screen x="0" y="23" width="3440" height="1337" />
+    </state>
+    <state width="673" height="199" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1581627151423" />
+    <state width="1358" height="244" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1580512038297" />
+    <state width="1638" height="244" key="GridCell.Tab.0.right/0.23.1680.961@0.23.1680.961" timestamp="1580586971819" />
+    <state width="1606" height="186" key="GridCell.Tab.0.right/0.23.1680.975@0.23.1680.975" timestamp="1581628752632" />
+    <state width="1485" height="186" key="GridCell.Tab.0.right/0.23.2560.977@0.23.2560.977" timestamp="1580666949873" />
+    <state width="1485" height="186" key="GridCell.Tab.0.right/0.23.2560.982@0.23.2560.982" timestamp="1580684275704" />
+    <state width="861" height="329" key="GridCell.Tab.0.right/0.23.3440.1337@0.23.3440.1337" timestamp="1583312340808" />
+    <state width="1786" height="389" key="GridCell.Tab.1.bottom" timestamp="1577449871287">
+      <screen x="0" y="23" width="3440" height="1337" />
+    </state>
+    <state width="1786" height="389" key="GridCell.Tab.1.bottom/0.23.3440.1337@0.23.3440.1337" timestamp="1577449871287" />
+    <state width="1786" height="389" key="GridCell.Tab.1.center" timestamp="1577449871286">
+      <screen x="0" y="23" width="3440" height="1337" />
+    </state>
+    <state width="1786" height="389" key="GridCell.Tab.1.center/0.23.3440.1337@0.23.3440.1337" timestamp="1577449871286" />
+    <state width="1786" height="389" key="GridCell.Tab.1.left" timestamp="1577449871286">
+      <screen x="0" y="23" width="3440" height="1337" />
+    </state>
+    <state width="1786" height="389" key="GridCell.Tab.1.left/0.23.3440.1337@0.23.3440.1337" timestamp="1577449871286" />
+    <state width="1786" height="389" key="GridCell.Tab.1.right" timestamp="1577449871287">
+      <screen x="0" y="23" width="3440" height="1337" />
+    </state>
+    <state width="1786" height="389" key="GridCell.Tab.1.right/0.23.3440.1337@0.23.3440.1337" timestamp="1577449871287" />
+    <state x="443" y="116" width="965" height="722" key="SettingsEditor" timestamp="1581627072984">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="443" y="116" width="965" height="722" key="SettingsEditor/0.23.1440.822@0.23.1440.822" timestamp="1581627072984" />
+    <state x="341" y="142" key="SettingsEditor/0.23.1680.960@0.23.1680.960" timestamp="1580511546646" />
+    <state x="1698" y="175" key="SettingsEditor/0.23.3440.1337@0.23.3440.1337" timestamp="1581455830152" />
+    <state x="494" y="338" key="com.intellij.ide.util.TipDialog" timestamp="1580587319231">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state x="494" y="338" key="com.intellij.ide.util.TipDialog/0.23.1680.960@0.23.1680.960" timestamp="1580587319231" />
+    <state x="1713" y="352" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1576790455767">
+      <screen x="0" y="23" width="3440" height="1337" />
+    </state>
+    <state x="1713" y="352" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.3440.1337@0.23.3440.1337" timestamp="1576790455767" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/multilabel_classification/MultiLabelTrainingSetGenerator.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Text_classifiers_Project$UNCHR_Classification.coverage" NAME="UNCHR-Classification Coverage Results" MODIFIED="1580641141974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SingleLabel_Classification" />
+    <SUITE FILE_PATH="coverage/Text_classifiers_Project$general_classification_latest.coverage" NAME="general-classification-latest Coverage Results" MODIFIED="1583693350492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SingleLabel_Classification" />
+    <SUITE FILE_PATH="coverage/Text_classifiers_Project$DataCleaning.coverage" NAME="DataCleaning Coverage Results" MODIFIED="1581500361244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/royal-theatre-text-analyis" />
+    <SUITE FILE_PATH="coverage/Text_classifiers_Project$sample.coverage" NAME="sample Coverage Results" MODIFIED="1580511554188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Text_classifiers_Project$CVSExplorer.coverage" NAME="CVSExplorer Coverage Results" MODIFIED="1581627134113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/royal-theatre-text-analyis" />
+    <SUITE FILE_PATH="coverage/Text_classifiers_Project$Tweetpy.coverage" NAME="Tweetpy Coverage Results" MODIFIED="1583693450772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/royal-theatre-text-analyis" />
+    <SUITE FILE_PATH="coverage/Text_classifiers_Project$customer_classification.coverage" NAME="customer-classification Coverage Results" MODIFIED="1580666949864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SingleLabel_Classification" />
+    <SUITE FILE_PATH="coverage/Text_classifiers_Project$DataTransformation.coverage" NAME="DataTransformation Coverage Results" MODIFIED="1581457168481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/royal-theatre-text-analyis" />
+    <SUITE FILE_PATH="coverage/Text_classifiers_Project$Feature_test.coverage" NAME="Feature_test Coverage Results" MODIFIED="1580659495016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Text_classifiers_Project$LogisticsPerspectiveIndex_Classification.coverage" NAME="LogisticsPerspectiveIndex_Classification Coverage Results" MODIFIED="1577627668709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SingleLabel_Classification" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
